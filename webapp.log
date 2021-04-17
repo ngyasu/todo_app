@@ -1,0 +1,5 @@
+2021/04/17 21:36:24 route_auth.go:49: pq: SSL is not enabled on the server
+2021/04/17 21:36:24 server.go:3139: http: superfluous response.WriteHeader call from sample_todo/app/controllers.authenticate (route_auth.go:65)
+2021/04/17 21:36:31 route_auth.go:49: pq: SSL is not enabled on the server
+2021/04/17 21:36:31 server.go:3139: http: superfluous response.WriteHeader call from sample_todo/app/controllers.authenticate (route_auth.go:65)
+2021/04/17 21:36:41 users.go:42: pq: SSL is not enabled on the server
